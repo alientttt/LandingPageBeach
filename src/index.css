@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+body {
+  font-family: "Ancizar Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* .container-navbar {
+  position: relative;
+  top: 0;
+} */
+
+/* .container-navmenu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+} */
+
+.text-AKMAL {
+  font-weight: bold;
+  font-size: 32px;
+  color: white;
+}
+
+.text-MHS {
+  font-weight: 100;
+  font-size: 32px;
+  color: white;
+  font-style: italic;
+}
