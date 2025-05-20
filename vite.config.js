@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [
     react(),tailwindcss()
   ],
-  base: 'https://github.com/alientttt/LandingPageBeach.git'
+  base: '/LandingPageBeach/',
 })
